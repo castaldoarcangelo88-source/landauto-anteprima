@@ -6,6 +6,6 @@
 - Fonte: Wikimedia Commons – https://commons.wikimedia.org/wiki/File:Porsche_911_GT3_RS_(992)_rear_view_at_Japan_Mobility_Show_Kansai_2025.jpg
 - Autore: Aos.1905 – https://commons.wikimedia.org/wiki/User:Aos.1905
 - Licenza: CC BY-SA 4.0 – https://creativecommons.org/licenses/by-sa/4.0/
-- Modifiche: ritaglio della parte inferiore (targa esclusa), logo nell'angolo sfocato, ridimensionamento e conversione in WebP. L'immagine modificata è distribuita con la stessa licenza CC BY-SA 4.0.
+- Modifiche: ritaglio della parte inferiore (targa e logo nell'angolo esclusi), ridimensionamento e conversione in WebP. L'immagine modificata è distribuita con la stessa licenza CC BY-SA 4.0.
 
 Le altre foto di repertorio provengono da Unsplash (licenza Unsplash); le foto delle auto vendute sono del cliente.
